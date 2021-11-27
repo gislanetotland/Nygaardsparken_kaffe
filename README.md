@@ -1,7 +1,7 @@
 # Nygaardsparken_kaffe
 ## Høst 2021
 
-Website av nygårdsparken kaffe.
+Website om nygårdsparken kaffe.
 
 " You project must show that you are able to create a web site that offers information about a certain
 aspect of reality. You must show that you are able to shape this information and make it
