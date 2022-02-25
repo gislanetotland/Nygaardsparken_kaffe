@@ -37,20 +37,8 @@ h1 {
     margin-top: 0;
     margin-bottom: 0;
 }
-h1 {
-    font-family: lobster_tworegular;
-    font-size: 7rem;
-    text-align: center;
-    margin-top: 0;
-    margin-bottom: 0;
-}
-/* Navbar container */
 
-.navbar {
-    overflow: hidden;
-    background-color: Transparent;
-    font-family: poiret_oneregular;
-}
+
 /* Navbar container */
 
 .navbar {
@@ -58,6 +46,11 @@ h1 {
     overflow: hidden;
     background-color: Transparent;
     font-family: poiret_oneregular;
+}
+
+.lang{
+    text-align: right;
+
 }
 /* Links inside the navbar */
 

@@ -44,10 +44,24 @@ h1 {
     background-color: Transparent;
     font-family: poiret_oneregular;
 }
+.lang{
+    text-align: right;
+
+}
 /* Links inside the navbar */
 
 .navbar a {
     float: left;
+    font-size: 3.65rem;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Button to change language */
+.lang a {
+    float: right;
     font-size: 3.65rem;
     color: white;
     text-align: center;
